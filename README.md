@@ -13,6 +13,7 @@ Actually i'm working on :
 
 ### 📣 Contact Me
 - E-mail : nchenriquecesarp@outlook.com
+- <a href=https://www.linkedin.com/in/henrique-cesar-nogarini-de-carvalho-99943b216/>LinkedIn</a>
 
 
 
