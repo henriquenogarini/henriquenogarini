@@ -8,7 +8,6 @@
 
 ### 📓My projects
 Actually i'm working on :
-- A game project in unity with some friends.
 - College Projects
 
 ### 📣 Contact Me
