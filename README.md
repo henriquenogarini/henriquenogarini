@@ -2,9 +2,9 @@
 
 ### 👨‍🎓 About me
 - I'm 22 years old and currently in Third Year of Computer Engeneering at <a href=http://www.utfpr.edu.br/campus/cornelioprocopio>UTFPR-CP</a>
-- I've already worked with some Java, C, SQL and Python projects at the University.
+- I've already worked with some Java, C, C#, SQL, pgSQl and ReactJS projects at the University.
 - I have some knowledge in unity.
-- Currently i've been studying some C# and Java focused in personal projects.
+- Currently i've been studying a lot of Front-End Web focused in personal projects.
 
 ### 📓My projects
 Actually i'm working on :
