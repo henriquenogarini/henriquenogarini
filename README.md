@@ -1,7 +1,7 @@
 ### Hello World , my name is Henrique and welcome to my profile !
 
 ### 👨‍🎓 About me
-- I'm 23 years old and currently in Fourth Year of Computer Engeneering at <a href=http://www.utfpr.edu.br/campus/cornelioprocopio>UTFPR-CP</a>
+- I'm 24 years old and currently in Fourth Year of Computer Engeneering at <a href=http://www.utfpr.edu.br/campus/cornelioprocopio>UTFPR-CP</a>
 - I've already worked with some Java, C, C#, SQL, pgSQl and ReactJS projects at the University.
 - I have some knowledge in unity.
 - Currently i've been studying a lot of Front-End Web focused in personal projects.
