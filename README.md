@@ -1,33 +1,19 @@
-### Hello World , my name is Henrique and welcome to my profile !
+### Olá, sou o Henrique Nogarini, um desenvolvedor de software apaixonado pelo mundo tecnológico.
 
-### 👨‍🎓 About me
-- I'm 24 years old and currently in Fourth Year of Computer Engeneering at <a href=http://www.utfpr.edu.br/campus/cornelioprocopio>UTFPR-CP</a>
-- I've already worked with some Java, C, C#, SQL, pgSQl and ReactJS projects at the University.
-- I have some knowledge in unity.
-- Currently i've been studying a lot of Front-End Web focused in personal projects.
+### 👨‍🎓 Sobre mim
+- Tenho 24 anos e estou cursando o terceiro ano de Engenharia de Software na instituição <a href=http://www.utfpr.edu.br/campus/cornelioprocopio>UTFPR-CP</a>
+- Tenho conhecimentos em  Java, C, SQL, pgSQl e ReactJS, devido a projetos pessoais e disciplinas universitárias.
+- Atualmente estou inclinado ao estudo Full-Stack com ReactJs e Node.js.
 
-### 📓My projects
-Actually i'm working on :
-- College Projects
-
-### 📣 Contact Me
+### :flying_saucer: Contato:
+<a href="https://www.linkedin.com/in/henrique-nogarini-99943b216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://discord.com/invite/_shielder" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://www.instagram.com/shielderdev?igsh=OHZ5djBoeXNtdHJ4" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 - E-mail : nchenriquecesarp@outlook.com
-- <a href=https://www.linkedin.com/in/henrique-cesar-nogarini-de-carvalho-99943b216/>LinkedIn</a>
 
-
-
-
-<!--
-**henriquenogarini/henriquenogarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias trabalhadas 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="50"/>  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="55"/>
+          
+<a href="https://github.com/henriquenogarini">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquenogarini&layout=compact&langs_count=8&card_width=320" />
+</a>
