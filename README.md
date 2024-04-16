@@ -1,5 +1,6 @@
-### Olá, sou o Henrique Nogarini, um desenvolvedor de software apaixonado pelo mundo tecnológico.
-
+<h1 align="center"> Olá, sou Henrique Nogarini<h1>
+<h2 align="center">Desenvolvedor Web Front End</h2>
+          
 ### 👨‍🎓 Sobre mim
 - Tenho 24 anos e estou cursando o terceiro ano de Engenharia de Software na instituição <a href=http://www.utfpr.edu.br/campus/cornelioprocopio>UTFPR-CP</a>
 - Tenho conhecimentos em  Java, C, SQL, pgSQl e ReactJS, devido a projetos pessoais e disciplinas universitárias.
