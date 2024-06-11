@@ -2,7 +2,7 @@
 <h2 align="center">Desenvolvedor Web Front End</h2>
           
 ### 👨‍🎓 Sobre mim
-- Tenho 24 anos e estou cursando o terceiro ano de Engenharia de Software na instituição <a href=http://www.utfpr.edu.br/campus/cornelioprocopio>UTFPR-CP</a>
+- Tenho 25 anos e estou cursando o terceiro ano de Engenharia de Software na instituição <a href=http://www.utfpr.edu.br/campus/cornelioprocopio>UTFPR-CP</a>
 - Tenho conhecimentos em  Java, C, SQL, pgSQl e ReactJS, devido a projetos pessoais e disciplinas universitárias.
 - Atualmente estou inclinado ao estudo Full-Stack com ReactJs e Node.js.
 
