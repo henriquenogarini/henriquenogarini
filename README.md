@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, sou Henrique Nogarini<h1>
-<h2 align="center">Desenvolvedor Web Front End</h2>
+<h2 align="center">Desenvolvedor Web Full-Stack</h2>
           
 ### 👨‍🎓 Sobre mim
 - Tenho 25 anos e estou cursando o terceiro ano de Engenharia de Software na instituição <a href=http://www.utfpr.edu.br/campus/cornelioprocopio>UTFPR-CP</a>
