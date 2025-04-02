@@ -5,7 +5,7 @@
 
 ### 👨‍🎓 Sobre mim
 - Tenho 25 anos e estou cursando o terceiro ano de Engenharia de Software na <a href="http://www.utfpr.edu.br/campus/cornelioprocopio" target="_blank">UTFPR-CP</a>.
-- Possuo forte base em **JavaScript, TypeScript, React.js, Node.js, Java, Spring Boot e Flutter**.
+- Possuo forte base em **JavaScript, TypeScript, React.js, Next.js, Node.js, Java, Spring Boot e Flutter**.
 - Atualmente, trabalho como **Desenvolvedor Back-End** na **HRC Software**, implementando funcionalidades para aplicativos mobile.
 
 ---
