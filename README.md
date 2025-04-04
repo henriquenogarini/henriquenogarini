@@ -1,12 +1,12 @@
 <h1 align="center">Olá, sou Henrique Nogarini</h1>
-<h2 align="center">Desenvolvedor Java Backend</h2>
+<h2 align="center">Desenvolvedor Full Stack</h2>
 
 ---
 
 ### 👨‍🎓 Sobre mim
 - Tenho 25 anos e estou cursando o terceiro ano de Engenharia de Software na <a href="http://www.utfpr.edu.br/campus/cornelioprocopio" target="_blank">UTFPR-CP</a>.
 - Possuo forte base em **JavaScript, TypeScript, React.js, Next.js, Node.js, Java, Spring Boot e Flutter**.
-- Atualmente, trabalho como **Desenvolvedor Full-Stack** na **HRC Software**, implementando funcionalidades e telas para aplicativos mobile.
+- Atualmente, trabalho como **Desenvolvedor Full Stack** na **HRC Software**, implementando funcionalidades e telas para aplicativos mobile.
 - **1x AWS Certified**, estudando conceitos de nuvem e me preparando para a segunda certificação.
 ---
 
