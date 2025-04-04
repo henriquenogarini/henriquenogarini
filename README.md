@@ -6,8 +6,8 @@
 ### 👨‍🎓 Sobre mim
 - Tenho 25 anos e estou cursando o terceiro ano de Engenharia de Software na <a href="http://www.utfpr.edu.br/campus/cornelioprocopio" target="_blank">UTFPR-CP</a>.
 - Possuo forte base em **JavaScript, TypeScript, React.js, Next.js, Node.js, Java, Spring Boot e Flutter**.
-- Atualmente, trabalho como **Desenvolvedor Back-End** na **HRC Software**, implementando funcionalidades para aplicativos mobile.
-
+- Atualmente, trabalho como **Desenvolvedor Full-Stack** na **HRC Software**, implementando funcionalidades e telas para aplicativos mobile.
+- **1x AWS Certified**, estudando conceitos de nuvem e me preparando para a segunda certificação.
 ---
 
 ### 📬 Contato:
@@ -30,7 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
