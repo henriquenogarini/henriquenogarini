@@ -4,9 +4,9 @@
 ---
 
 ### 👨‍🎓 Sobre mim
-- Tenho 25 anos e estou cursando o terceiro ano de Engenharia de Software na <a href="http://www.utfpr.edu.br/campus/cornelioprocopio" target="_blank">UTFPR-CP</a>.
-- Possuo forte base em **JavaScript, TypeScript, React.js, Next.js, Node.js, Java, Spring Boot e Flutter**.
-- Atualmente, trabalho como **Desenvolvedor Full Stack** na **HRC Software**, implementando funcionalidades e telas para aplicativos mobile.
+- Tenho 26 anos e estou cursando o terceiro ano de Engenharia de Software na <a href="http://www.utfpr.edu.br/campus/cornelioprocopio" target="_blank">UTFPR-CP</a>.
+- Possuo forte base em **JavaScript, TypeScript, React.js, Next.js, Node.js, Exppress.js, Java, Spring Boot e Flutter**.
+- Atualmente, trabalho como **Desenvolvedor Full Stack** na **HRC Software**, implementando funcionalidades com **Java E Spring Boot** e telas para aplicativos mobile com **Flutter**.
 - **1x AWS Certified**, estudando conceitos de nuvem e me preparando para a segunda certificação.
 ---
 
