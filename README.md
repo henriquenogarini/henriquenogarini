@@ -5,7 +5,7 @@
 
 ### 👨‍🎓 Sobre mim
 
-- Tenho 26 anos e atualmente curso o 3º ano de Engenharia de Software na <a href="http://www.utfpr.edu.br/campus/cornelioprocopio" target="_blank">UTFPR - Cornélio Procópio</a>.
+- Tenho 26 anos e atualmente curso o 4º ano de Engenharia de Software na <a href="http://www.utfpr.edu.br/campus/cornelioprocopio" target="_blank">UTFPR - Cornélio Procópio</a>.
 - Atuo como Desenvolvedor Full Stack na <strong>HRC Software</strong>, com foco em Back-End usando <strong>Java</strong> e <strong>Spring Boot</strong>, e apoio no front-end de aplicações mobile com <strong>FlutterFlow</strong>.
 - Tenho experiência prática com diversas tecnologias do ecossistema web, como <strong>TypeScript, React.js, Next.js, Node.js e Express.js</strong>, além de bancos de dados como <strong>PostgreSQL, MySQL e MongoDB</strong>.
 - <strong>1x AWS Certified(Cloud Practitioner)</strong>, estou em constante evolução na área de cloud, infraestrutura e desenvolvimento de aplicações modernas.
